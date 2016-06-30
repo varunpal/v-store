@@ -1,0 +1,27 @@
+{
+  "name": "v-store",
+  "version": "1.0.0",
+  "description": "A javascript key value store with pub-sub.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunpal/v-store.git"
+  },
+  "keywords": [
+    "store",
+    "publish",
+    "subscribe",
+    "pub-sub",
+    "key",
+    "value"
+  ],
+  "author": "Varun Pal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varunpal/v-store/issues"
+  },
+  "homepage": "https://github.com/varunpal/v-store#readme"
+}
